@@ -1,12 +1,12 @@
 {
-    "course/2002": {
+    "course/en": {
         "cert_html_view_enabled": true,
         "discussion_topics": {
             "General": {
                 "id": "course"
             }
         },
-        "display_name": "ABC Testing base",
+        "display_name": "Final Review Course",
         "language": "en",
         "start": "2030-01-01T00:00:00Z",
         "tabs": [
@@ -40,6 +40,12 @@
                 "name": "Progress",
                 "type": "progress"
             }
-        ]
+        ],
+        "xml_attributes": {
+            "filename": [
+                "course/en.xml",
+                "course/en.xml"
+            ]
+        }
     }
 }
